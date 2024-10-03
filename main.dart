@@ -1,6 +1,5 @@
 import"package:flutter/material.dart";
-import "package:flutter/painting.dart";
-import "package:flutter/widgets.dart";
+
 void main(){
   runApp(const MyApp());
 }
